@@ -1,7 +1,7 @@
 ﻿# PY4E-Module08A-5Mailbox
 
 ## Assignment
-Write a program to read through the mail box data and when you find line that starts with “From”, you will split the line into words using the split function. We are interested in who sent the message, which is the second word on the From line.
+Write a program to read through the mail box data and when you find line that starts with “From ”, you will split the line into words using the split function. We are interested in who sent the message, which is the second word on the From line.
 
 ``` 
 From stephen.marquard@uct.ac.za Sat Jan 5 09:14:16 2008
